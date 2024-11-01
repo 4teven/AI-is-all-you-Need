@@ -10,24 +10,27 @@ It is based on those courses listed below, thank you so much for devoting a huge
 
 * Practical Machine Learning By *Muli*
   
-https://c.d2l.ai/stanford-cs329p/
+  https://c.d2l.ai/stanford-cs329p/
 
 
 * Dive into Deep Learning By *Muli*
   
-https://d2l.ai/
+  https://d2l.ai/
 
 * Attention is all you need (Transformer) - Model explanation (including math), Inference and Training By *Umar Jamil*
   
-https://youtu.be/bCz4OMemCcA?si=oYle_ROYVuzsoFuK
+  https://youtu.be/bCz4OMemCcA?si=oYle_ROYVuzsoFuK
 
+* Intro to Pytorch Deep Learning by *我是土堆*
+
+  https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.999.0.0&vd_source=cdda01dc1473090c9ef3abc2d2abef05
 
 * Tensorflow Tutorial and Machine Learning by *CodeBasics*
   
-https://www.youtube.com/@codebasics
+  https://www.youtube.com/@codebasics
 
 * Deep Learning Systems by *Zico Kolter* and *Tianqi Chen*
 
-https://www.youtube.com/@deeplearningsystemscourse1116
+  https://www.youtube.com/@deeplearningsystemscourse1116
 
 
